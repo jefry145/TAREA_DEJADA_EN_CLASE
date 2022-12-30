@@ -1,0 +1,14 @@
+#titulo_navbar{
+    background: rgb(255, 70, 70);
+    height: 86px;
+}
+#text_1{
+    margin: 20px 10px;
+}
+#buscador_navbar{
+    background: rgb(253, 102, 102);
+    height: 36px;
+}
+div{
+    color: white;
+}

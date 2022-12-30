@@ -1,0 +1,21 @@
+#cuadro{
+    background: rgb(238, 238, 238);
+    width: 94%;
+    height: 350px;
+    margin: 3% 3%;
+
+}
+#content{
+    margin: 9%;
+}
+h5{
+    font-size: 35px;
+    font-weight: 600;
+}
+p{
+    font-weight: 600; 
+    font-size: 18px;
+}
+button{
+    margin: 0 3px;
+}
